@@ -13,7 +13,6 @@
 - **Top Performers**: Identifies students with the highest average scores across all subjects and semesters.
 - **Subject Difficulty Analysis**: Finds the subject where students struggled the most based on the lowest average score.
 - **Excel Export**: Generates an Excel file containing average scores per semester for further analysis.
-- **Improvement Detection**: Identifies students who have consistently improved their scores across semesters.
 - **Data Cleaning**: Handles missing values and replaces negative scores with NaN for accurate analysis.
 
 ## Visualizations
